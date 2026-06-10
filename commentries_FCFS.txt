@@ -1,0 +1,259 @@
+Ball-by-Ball Commentary
+============================================================
+
+ 0.1  Usman Khwaja to Rohit Sharma 4
+ 0.2  Usman Khwaja to Rohit Sharma 4
+ 0.3  Usman Khwaja to Rohit Sharma 4
+ 0.4  Usman Khwaja to Rohit Sharma 4
+ 0.5  Usman Khwaja to Rohit Sharma 4
+ 0.6  Usman Khwaja to Rohit Sharma 1
+ 1.1  Aeron Finch to Shubman Gill 1
+ 1.2  Aeron Finch to Rohit Sharma 6
+ 1.3  Aeron Finch to Rohit Sharma 4
+ 1.4  Aeron Finch to Rohit Sharma 1
+ 1.5  Aeron Finch to Shubman Gill 0
+ 1.6  Aeron Finch to Shubman Gill 4
+ 1.6  Alex Carry to Shubman Gill, WIDE! (extra)
+ 1.6  Alex Carry to Shubman Gill, WIDE! (extra)
+ 2.1  Alex Carry to Shubman Gill 1
+ 2.2  Alex Carry to Rohit Sharma 1
+ 2.3  Alex Carry to Shubman Gill 4
+ 2.4  Alex Carry to Shubman Gill 2
+ 2.5  Alex Carry to Shubman Gill 4
+ 2.6  Alex Carry to Shubman Gill 6
+ 3.1  Glen Maxwell to Shubman Gill 1
+ 3.2  Glen Maxwell to Rohit Sharma 1
+ 3.3  Glen Maxwell to Shubman Gill 1
+ 3.4  Glen Maxwell to Rohit Sharma 4
+ 3.5  Glen Maxwell to Rohit Sharma 1
+ 3.6  Glen Maxwell to Shubman Gill 4
+ 4.1  Steve Smith to Shubman Gill 0
+ 4.2  Steve Smith to Shubman Gill 6
+ 4.3  Steve Smith to Shubman Gill 1
+ 4.3  Steve Smith to Rohit Sharma, WIDE! (extra)
+ 4.4  Steve Smith to Rohit Sharma 1
+ 4.5  Steve Smith to Shubman Gill 1
+ 4.6  Steve Smith to Rohit Sharma 1
+ 5.1  David Warner to Shubman Gill 0
+ 5.2  David Warner to Shubman Gill 6
+ 5.3  David Warner to Shubman Gill 4
+ 5.4  David Warner to Shubman Gill 1
+ 5.5  David Warner to Rohit Sharma 2
+ 5.6  David Warner to Rohit Sharma 0
+ 6.1  J. Richardson to Rohit Sharma 1
+ 6.2  J. Richardson to Shubman Gill 0
+ 6.3  J. Richardson to Shubman Gill 1
+ 6.4  J. Richardson to Rohit Sharma OUT!!
+ 6.5  J. Richardson to Shubman Gill 4
+ 6.6  J. Richardson to Shubman Gill 1
+ 7.1  M. Starc to Virat Kohli 1
+ 7.2  M. Starc to Shubman Gill 6
+ 7.2  M. Starc to Shubman Gill, WIDE! (extra)
+ 7.3  M. Starc to Shubman Gill 0
+ 7.4  M. Starc to Shubman Gill 1
+ 7.5  M. Starc to Virat Kohli 4
+ 7.6  M. Starc to Virat Kohli 6
+ 8.1  M. Stoinis to Virat Kohli 6
+ 8.2  M. Stoinis to Virat Kohli 1
+ 8.3  M. Stoinis to Shubman Gill 6
+ 8.4  M. Stoinis to Shubman Gill 1
+ 8.5  M. Stoinis to Virat Kohli 1
+ 8.6  M. Stoinis to Shubman Gill 1
+ 9.1  A. Zampa to Virat Kohli 2
+ 9.2  A. Zampa to Virat Kohli 1
+ 9.3  A. Zampa to Shubman Gill 6
+ 9.4  A. Zampa to Shubman Gill 0
+ 9.5  A. Zampa to Shubman Gill 6
+ 9.6  A. Zampa to Shubman Gill 4
+10.1  N. Lyon to Shubman Gill 6
+10.2  N. Lyon to Shubman Gill 1
+10.3  N. Lyon to Virat Kohli 4
+10.3  N. Lyon to Virat Kohli, WIDE! (extra)
+10.4  N. Lyon to Virat Kohli 1
+10.5  N. Lyon to Shubman Gill 1
+10.5  N. Lyon to Virat Kohli, WIDE! (extra)
+10.6  N. Lyon to Virat Kohli 1
+11.1  Aeron Finch to Shubman Gill OUT!!
+11.2  Aeron Finch to Virat Kohli 0
+11.3  Aeron Finch to Virat Kohli 4
+11.4  Aeron Finch to Virat Kohli 1
+11.5  Aeron Finch to Shreyas Iyer 1
+11.6  Aeron Finch to Virat Kohli 1
+12.1  Alex Carry to Shreyas Iyer 0
+12.2  Alex Carry to Shreyas Iyer OUT!!
+12.3  Alex Carry to Virat Kohli 4
+12.4  Alex Carry to Virat Kohli 2
+12.5  Alex Carry to Virat Kohli 1
+12.6  Alex Carry to Suryakumar Yadav 4
+13.1  Glen Maxwell to Suryakumar Yadav 0
+13.2  Glen Maxwell to Suryakumar Yadav 1
+13.3  Glen Maxwell to Virat Kohli OUT!!
+13.4  Glen Maxwell to Suryakumar Yadav 1
+13.5  Glen Maxwell to Hardik Pandya 1
+13.6  Glen Maxwell to Suryakumar Yadav 1
+14.1  Steve Smith to Hardik Pandya 1
+14.2  Steve Smith to Suryakumar Yadav 1
+14.3  Steve Smith to Hardik Pandya 6
+14.4  Steve Smith to Hardik Pandya 4
+14.5  Steve Smith to Hardik Pandya 1
+14.6  Steve Smith to Suryakumar Yadav 3
+15.1  David Warner to Hardik Pandya 6
+15.2  David Warner to Hardik Pandya 1
+15.3  David Warner to Suryakumar Yadav 1
+15.4  David Warner to Hardik Pandya 1
+15.5  David Warner to Suryakumar Yadav 1
+15.6  David Warner to Hardik Pandya 1
+16.1  J. Richardson to Suryakumar Yadav 1
+16.2  J. Richardson to Hardik Pandya 4
+16.3  J. Richardson to Hardik Pandya 1
+16.4  J. Richardson to Suryakumar Yadav 1
+16.5  J. Richardson to Hardik Pandya 4
+16.6  J. Richardson to Hardik Pandya 1
+17.1  M. Starc to Suryakumar Yadav OUT!!
+17.2  M. Starc to Hardik Pandya 1
+17.3  M. Starc to Ravindra Jadeja 0
+17.4  M. Starc to Ravindra Jadeja 1
+17.5  M. Starc to Hardik Pandya 1
+17.6  M. Starc to Ravindra Jadeja 1
+18.1  M. Stoinis to Hardik Pandya 3
+18.2  M. Stoinis to Ravindra Jadeja 2
+18.3  M. Stoinis to Ravindra Jadeja 3
+18.4  M. Stoinis to Hardik Pandya 1
+18.5  M. Stoinis to Ravindra Jadeja 0
+18.6  M. Stoinis to Ravindra Jadeja 0
+19.1  M. Starc to Ravindra Jadeja 0
+19.2  M. Starc to Ravindra Jadeja 1
+19.3  M. Starc to Hardik Pandya 1
+19.4  M. Starc to Ravindra Jadeja 1
+19.5  M. Starc to Hardik Pandya 4
+19.6  M. Starc to Hardik Pandya 1
+
+==================== END OF 1ST INNINGS ====================
+
+ 0.1  Rohit Sharma to Usman Khwaja 0
+ 0.2  Rohit Sharma to Usman Khwaja 2
+ 0.3  Rohit Sharma to Usman Khwaja 4
+ 0.4  Rohit Sharma to Usman Khwaja 2
+ 0.5  Rohit Sharma to Usman Khwaja 1
+ 0.6  Rohit Sharma to Aeron Finch 0
+ 1.1  Shubman Gill to Aeron Finch 4
+ 1.2  Shubman Gill to Aeron Finch 3
+ 1.3  Shubman Gill to Usman Khwaja 6
+ 1.4  Shubman Gill to Usman Khwaja 1
+ 1.5  Shubman Gill to Aeron Finch 1
+ 1.6  Shubman Gill to Usman Khwaja 6
+ 2.1  Virat Kohli to Usman Khwaja 6
+ 2.1  Virat Kohli to Usman Khwaja, WIDE! (extra)
+ 2.2  Virat Kohli to Usman Khwaja 2
+ 2.3  Virat Kohli to Usman Khwaja 1
+ 2.4  Virat Kohli to Aeron Finch 4
+ 2.5  Virat Kohli to Aeron Finch 1
+ 2.6  Virat Kohli to Usman Khwaja OUT!!
+ 3.1  Shreyas Iyer to Aeron Finch 1
+ 3.2  Shreyas Iyer to Alex Carry 0
+ 3.3  Shreyas Iyer to Alex Carry 1
+ 3.4  Shreyas Iyer to Aeron Finch 6
+ 3.5  Shreyas Iyer to Aeron Finch 0
+ 3.6  Shreyas Iyer to Aeron Finch 1
+ 4.1  Suryakumar Yadav to Alex Carry 1
+ 4.2  Suryakumar Yadav to Aeron Finch 3
+ 4.3  Suryakumar Yadav to Alex Carry 2
+ 4.4  Suryakumar Yadav to Aeron Finch 4
+ 4.5  Suryakumar Yadav to Aeron Finch 4
+ 4.6  Suryakumar Yadav to Aeron Finch 0
+ 5.1  Hardik Pandya to Aeron Finch 1
+ 5.2  Hardik Pandya to Alex Carry 3
+ 5.3  Hardik Pandya to Aeron Finch 1
+ 5.4  Hardik Pandya to Alex Carry 2
+ 5.4  Hardik Pandya to Alex Carry, WIDE! (extra)
+ 5.5  Hardik Pandya to Alex Carry 4
+ 5.6  Hardik Pandya to Alex Carry 0
+ 6.1  Ravindra Jadeja to Alex Carry 1
+ 6.2  Ravindra Jadeja to Aeron Finch 2
+ 6.3  Ravindra Jadeja to Aeron Finch 1
+ 6.4  Ravindra Jadeja to Alex Carry 1
+ 6.5  Ravindra Jadeja to Aeron Finch 4
+ 6.6  Ravindra Jadeja to Aeron Finch 1
+ 7.1  Bhuvneshwar Kumar to Alex Carry 1
+ 7.2  Bhuvneshwar Kumar to Aeron Finch 1
+ 7.3  Bhuvneshwar Kumar to Alex Carry 1
+ 7.4  Bhuvneshwar Kumar to Aeron Finch OUT!!
+ 7.5  Bhuvneshwar Kumar to Alex Carry OUT!!
+ 7.6  Bhuvneshwar Kumar to Glen Maxwell 6
+ 8.1  Yuzvendra Chahal to Glen Maxwell 1
+ 8.2  Yuzvendra Chahal to Steve Smith 6
+ 8.3  Yuzvendra Chahal to Steve Smith 1
+ 8.4  Yuzvendra Chahal to Glen Maxwell 0
+ 8.5  Yuzvendra Chahal to Glen Maxwell 1
+ 8.6  Yuzvendra Chahal to Steve Smith 0
+ 9.1  Mohammed Shami to Steve Smith 1
+ 9.1  Mohammed Shami to Glen Maxwell, WIDE! (extra)
+ 9.2  Mohammed Shami to Glen Maxwell 1
+ 9.3  Mohammed Shami to Steve Smith 3
+ 9.4  Mohammed Shami to Glen Maxwell 4
+ 9.4  Mohammed Shami to Glen Maxwell, WIDE! (extra)
+ 9.5  Mohammed Shami to Glen Maxwell 4
+ 9.6  Mohammed Shami to Glen Maxwell 4
+10.1  Jasprit Bumrah to Glen Maxwell 1
+10.2  Jasprit Bumrah to Steve Smith 1
+10.3  Jasprit Bumrah to Glen Maxwell 0
+10.4  Jasprit Bumrah to Glen Maxwell 0
+10.5  Jasprit Bumrah to Glen Maxwell 6
+      [DEADLOCK DETECTED -> REMOVED -> RUNOUT -> CONTINUED]
+10.6  Jasprit Bumrah to Glen Maxwell 0, Steve Smith RUN OUT!!
+11.1  Shubman Gill to Glen Maxwell 1
+11.2  Shubman Gill to David Warner 2
+11.3  Shubman Gill to David Warner 3
+11.4  Shubman Gill to Glen Maxwell 6
+11.5  Shubman Gill to Glen Maxwell 1
+11.6  Shubman Gill to David Warner 0
+12.1  Virat Kohli to David Warner 3
+12.2  Virat Kohli to Glen Maxwell 6
+12.3  Virat Kohli to Glen Maxwell 4
+12.4  Virat Kohli to Glen Maxwell 1
+12.5  Virat Kohli to David Warner 1
+12.6  Virat Kohli to Glen Maxwell 4
+13.1  Shreyas Iyer to Glen Maxwell 4
+13.2  Shreyas Iyer to Glen Maxwell 6
+13.3  Shreyas Iyer to Glen Maxwell 0
+13.4  Shreyas Iyer to Glen Maxwell 1
+13.5  Shreyas Iyer to David Warner OUT!!
+13.6  Shreyas Iyer to Glen Maxwell 1
+14.1  Suryakumar Yadav to J. Richardson 4
+14.2  Suryakumar Yadav to J. Richardson 1
+14.3  Suryakumar Yadav to Glen Maxwell 4
+14.4  Suryakumar Yadav to Glen Maxwell 1
+14.5  Suryakumar Yadav to J. Richardson 1
+14.6  Suryakumar Yadav to Glen Maxwell 0
+15.1  Hardik Pandya to Glen Maxwell 4
+15.2  Hardik Pandya to Glen Maxwell 1
+15.3  Hardik Pandya to J. Richardson 2
+15.3  Hardik Pandya to J. Richardson, WIDE! (extra)
+15.4  Hardik Pandya to J. Richardson 1
+15.5  Hardik Pandya to Glen Maxwell 6
+15.6  Hardik Pandya to Glen Maxwell 1
+16.1  Ravindra Jadeja to J. Richardson 0
+16.2  Ravindra Jadeja to J. Richardson 0
+16.3  Ravindra Jadeja to J. Richardson 1
+16.4  Ravindra Jadeja to Glen Maxwell 6
+16.5  Ravindra Jadeja to Glen Maxwell 6
+16.6  Ravindra Jadeja to Glen Maxwell 1
+17.1  Bhuvneshwar Kumar to J. Richardson 1
+17.2  Bhuvneshwar Kumar to Glen Maxwell 6
+17.3  Bhuvneshwar Kumar to Glen Maxwell OUT!!
+17.4  Bhuvneshwar Kumar to J. Richardson 1
+17.5  Bhuvneshwar Kumar to M. Starc OUT!!
+17.6  Bhuvneshwar Kumar to J. Richardson 4
+18.1  Yuzvendra Chahal to J. Richardson 3
+18.2  Yuzvendra Chahal to M. Stoinis 3
+18.3  Yuzvendra Chahal to J. Richardson 1
+18.4  Yuzvendra Chahal to M. Stoinis 3
+18.5  Yuzvendra Chahal to J. Richardson 1
+18.6  Yuzvendra Chahal to M. Stoinis 0
+19.1  Jasprit Bumrah to M. Stoinis OUT!!
+19.2  Jasprit Bumrah to J. Richardson 2
+19.3  Jasprit Bumrah to J. Richardson 2
+19.4  Jasprit Bumrah to J. Richardson 1
+19.4  Jasprit Bumrah to A. Zampa, WIDE! (extra)
+19.5  Jasprit Bumrah to A. Zampa 1
+19.6  Jasprit Bumrah to J. Richardson 1
